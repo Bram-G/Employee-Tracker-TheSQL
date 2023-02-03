@@ -18,11 +18,11 @@ VALUES('Sales Manager',200000, 1),
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES('Longneck','Billy',1,NULL),
-('Bill','Smith',2,NULL),
+('Bill','Smith',2,1),
 ('Jeff','Lundy',3,NULL),
-('Bud','Dunkel',4,NULL),
+('Bud','Dunkel',4,3),
 ('Butch','Philliber',5,NULL),
-('Tim','Bangs',6,NULL),
+('Tim','Bangs',6,5),
 ('Punxsutawney','Phil',7,NULL),
-('Mark','Weaver',8,NULL);
+('Mark','Weaver',8,6);
 
