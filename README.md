@@ -28,6 +28,8 @@ https://github.com/Bram-G
     
 ## INSTALLATION
 Download files, open terminal in folder, run npm i, then run node index.js.
+
+link to Video showing how to use application: https://drive.google.com/file/d/1Fmk2J0fKHfmh0upP0UvqvdNaAbkOco1A/view
     
 ## USAGE
 This application can be used to organize and keep track of your companies roles and employees.
